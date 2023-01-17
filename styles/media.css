@@ -1,0 +1,75 @@
+@media screen and (max-width: 760px){
+    header{
+        flex-direction: column;
+    }
+
+    main{
+        flex-direction: column;
+    }
+
+    img{
+        margin-top: 100px;
+        width: 100px;
+        display: block;
+      
+    }
+
+    form{
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    h2{
+        font-size: 38px;
+    }
+
+    input{
+        align-self: center;
+    }
+
+    ul{
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 1300px){
+
+    header{
+        flex-direction: column;
+
+
+    }
+    
+    img{
+         display: block;
+         width: 400px;
+    
+        }
+       
+     h2{
+        font-size: 38px;
+    
+     }
+
+     p{
+        align-self: center;
+
+     }
+
+     main{
+        margin: auto;
+        flex-direction: column;
+
+     }
+     
+     form{
+        margin: auto;
+        width: 60%;
+     }
+
+     form [type="submit"]{
+        width: 30%;
+     }
+
+}
+
