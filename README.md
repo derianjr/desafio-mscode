@@ -3,7 +3,7 @@
 
 O projeto tem com principal intuito criar uma área onde clientes selecionados serão direcionadas para essa página para ter uma pesquisa de satisfação do cliente.
 ## 👨‍💻 Descrição
-O projeto foi feito para o cliente ter acesso de forma simples,prática e usual. Sendo assim, a fluidez foi um ponto tratado com muita atenção para que o cliente interagir de forma dinâmica e rápida. Pois, as informações fornecidas por eles serão analisadas e tratadas da melhor forma pela equipe que irá colher os feedbacks com intuito de melhorar os serviços da empresa.
+O projeto foi feito para o cliente ter acesso de forma simples,prática e usual. Sendo assim, a fluidez foi um ponto tratado com muita atenção para  o cliente interagir de forma dinâmica e rápida. Pois, as informações fornecidas por eles serão analisadas e tratadas da melhor forma pela equipe que irá colher os feedbacks com intuito de melhorar os serviços da empresa.
 
 ## 🛠️ Construído com
  HTML e CSS.
