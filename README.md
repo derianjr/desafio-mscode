@@ -1,15 +1,14 @@
-# 🚀 Desafio MS Code
-![imagem55](https://user-images.githubusercontent.com/117332778/212917367-7f1fd486-571a-44a9-a048-b82d52243f1a.png)
-
-O projeto tem com principal intuito criar uma área onde clientes selecionados serão direcionadas para essa página para ter uma pesquisa de satisfação do cliente.
+# Projeto Bootstrap
+O projeto está relacionado a criação de uma página utilizando o Bootstrap que tem como principal intuito oferecer um serviço de pacotes premium de um jogo existente (Albion Online).
 ## 👨‍💻 Descrição
-O projeto foi feito para o cliente ter acesso de forma simples,prática e usual. Sendo assim, a fluidez foi um ponto tratado com muita atenção para  o cliente interagir de forma dinâmica e rápida. Pois, as informações fornecidas por eles serão analisadas e tratadas da melhor forma pela equipe que irá colher os feedbacks com intuito de melhorar os serviços da empresa.
+O projeto foi feito para o cliente ter acesso de forma simples,prática e usual um serviço oferecido pelo jogo Albion Online onde o mesmo disponibiliza pacotes de premium que dão algumas vantagens dentro do jogo para o player. O site contém uma breve demonstração sobre o jogo e logo em seguida o serviço criado é oferecido. O site foi criado inspirado no layout do site oficial do jogo, com intuito de manter original e bem familiar para os usuários que já estão acostumado com o serviço oferecido. A maior parte do projeto foi feito com Bootstrap.
 
 ## 🛠️ Construído com
- HTML e CSS.
+ HTMLm,CSS e BOOTSTRAP.
 
 ## 📄 Licença
  Este projeto está sob a linceça MIT License -  veja o arquivo LICENSE.md para detalhes.
  
- ## 😄 Agradecimentos
- Desde de já, agradeço a oportunidade perante esse projeto mostrar um pouco das minhas skills adquiridas durante estudos na área de tecnologia e nesse mundo incrível que é a programação!
+ ## Referências
+Site oficial do jogo: https://albiononline.com/home // Site retirada de informações: https://www.gamesmanagers.com/pt/albion-online-resumo-de-informacoes // Templates da documentação do Site oficial do BOOTSTRAP.
+
